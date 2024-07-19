@@ -22,3 +22,5 @@ print(list1)
 # using pop() with index no.
 list1.pop(1)
 print(list1)
+
+print(list2)
