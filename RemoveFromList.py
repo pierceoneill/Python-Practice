@@ -18,3 +18,7 @@ print(list1)
 # using remove()
 list1.remove("C")
 print(list1)
+
+# using pop() with index no.
+list1.pop(1)
+print(list1)
