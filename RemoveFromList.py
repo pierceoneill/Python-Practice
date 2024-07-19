@@ -8,3 +8,13 @@ There are several methods to remove items frin list1 list:
 5. del keyword without index no. deletes whole list
 6 clear() - empties the list, will not delete the list
 """
+
+# Define a list
+list1 = ["A", "B", "C", "D", "E"]
+list2 = ["1", "2", "3", "4", "5"]
+
+print(list1)
+
+# using remove()
+list1.remove("C")
+print(list1)
