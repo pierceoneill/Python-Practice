@@ -23,4 +23,8 @@ print(list1)
 list1.pop(1)
 print(list1)
 
+# using pop() without index no.
+list1.pop(1)
+print(list1)
+
 print(list2)
