@@ -28,3 +28,7 @@ list1.pop(1)
 print(list1)
 
 print(list2)
+
+# using del keyword with index no.
+del list2[3]
+print(list2)
