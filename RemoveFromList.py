@@ -32,3 +32,7 @@ print(list2)
 # using del keyword with index no.
 del list2[3]
 print(list2)
+
+# using del keyword without index no.
+del list2       # delete whole list2
+print(list2)
