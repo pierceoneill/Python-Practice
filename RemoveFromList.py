@@ -36,3 +36,4 @@ print(list2)
 # using del keyword without index no.
 del list2       # delete whole list2
 print(list2)
+
